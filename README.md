@@ -2,6 +2,11 @@
 
 This is a dice game that asks for players name before you start and let users roll the dice by clicking on the roll dice button.
 
+### Screenshot 
+
+![image](https://user-images.githubusercontent.com/64808015/113026045-8a799f80-9180-11eb-96c7-4d4094e7d835.png)
+
+
 ## BUILT WITH:
 
 - HTML
@@ -10,8 +15,8 @@ This is a dice game that asks for players name before you start and let users ro
 
 # LINKS
 
-Solution Links: https://github.com/mercyharbo/dicegame
-Live site: https://mercyharbo.github.io/dicegame
+- Solution Links: https://github.com/mercyharbo/dicegame
+- Live site: https://mercyharbo.github.io/dicegame
 
 # What I learned 
 
